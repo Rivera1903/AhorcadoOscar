@@ -81,8 +81,8 @@ public class VentanaAhorcado extends javax.swing.JFrame {
             case 3: nombreImagen = getClass().getResource("/imagenes/ahorcado_3.png");break;
             case 4: nombreImagen = getClass().getResource("/imagenes/ahorcado_4.png");break;
             case 5: nombreImagen = getClass().getResource("/imagenes/ahorcado_5.png");break;
-            case 6: nombreImagen = getClass().getResource("/imagenes/ahorcado_fin.png");break;
-            default : nombreImagen = getClass().getResource("/imagenes/ahorcado_fin.png");break;
+            case 6: nombreImagen = getClass().getResource("/imagenes/download_1.jpg");break;
+            default : nombreImagen = getClass().getResource("/imagenes/download.jpg");break;
         }
         
         int ancho = panelAhorcado.getWidth();
